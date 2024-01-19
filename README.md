@@ -2,6 +2,6 @@ Als kleines 'Not-Projekt' habe ich vor einiger Zeit den FontMaker in BBCBasic ge
 
 Die Schriftart der aktuellen VDP-Version ist beigefügt (bbclat-8.fnt).
 
-Diese Version ist noch nicht ganz vollständig (Zeichen an eine andere Position speichern, Taste [M] fehlt noch).
+Diese Version ist noch nicht ganz vollständig ('Put editor to', Taste [P] fehlt noch).
 
 Ich plane dieses Programm noch einmal in Assembler umzusetzen. In Basic, insbesondere im Emulator, ist es doch recht langsam.
